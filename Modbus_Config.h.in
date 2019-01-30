@@ -1,0 +1,2 @@
+#define Modbus_VERSION_MAJOR @Modbus_VERSION_MAJOR@
+#define Modbus_VERSION_MINOR @Modbus_VERSION_MINOR@
